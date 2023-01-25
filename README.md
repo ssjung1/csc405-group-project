@@ -9,9 +9,9 @@
 #Introduction
 Everyone has been impacted by the COVID-19 epidemic in some manner. The COVID-19's effects vary based on a person's income, housing, health, and other circumstances. This project aims to examine information on the COVID-19 epidemic from several sources. This will contribute to a better understanding of the COVID epidemic and how it affects everyone in society.
 
-### Team memebr:
+### Team members:
 +Pratik Bhatt
-+
++Goran Grujicic
 +
 +
 
