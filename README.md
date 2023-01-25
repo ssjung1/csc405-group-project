@@ -12,7 +12,7 @@ Everyone has been impacted by the COVID-19 epidemic in some manner. The COVID-19
 ### Team members:
 +Pratik Bhatt
 +Goran Grujicic
-+
++Andy Le
 +
 
 ## Project goal:
