@@ -13,7 +13,7 @@ Everyone has been impacted by the COVID-19 epidemic in some manner. The COVID-19
 +Pratik Bhatt
 +Goran Grujicic
 +Andy Le
-+
++Sean Jung
 
 ## Project goal:
 With the use of the COVID-19 data, which contains information on the incidence of cases, fatalities, and population by county in the United States, this study attempts to assess several enrichment datasets.
